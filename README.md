@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Pawan Singh</h1>
+<h1 align="center">Hi 👋, I'm Pallavi Singh</h1>
 <h3 align="center">A passionate developer and Open Source Enthusiast!</h3>
 
 - 🔭 I’m currently pursuing B.Tech.
