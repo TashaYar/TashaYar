@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pallavi Singh
 
-
+<h1 align="center">Hi 👋, I'm Pawan Singh</h1>
 
 - 🔭 I’m currently pursuing B.Tech.
 - 🌱 I’m currently learning MongoDB and AWS.
