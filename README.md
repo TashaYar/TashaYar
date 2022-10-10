@@ -10,7 +10,7 @@
 - 💬 Ask me about Java, JavaScript and React.
 - 📫 How to reach me: pgs909294@gmail.com
 - 😄 Pronouns: She/Her
-- 📄 Know about my experiences: [https:/shorturl.at/svIRU]
+- 📄 Know about my experiences: https:/shorturl.at/svIRU
 - ⚡ Motto: Semper Sursum
 
 <h3 align="left">Connect with me:</h3>
